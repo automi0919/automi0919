@@ -75,6 +75,6 @@
 </table>
 
 <div align="center">
-<img height="200px" align="left" src="https://github-readme-stats.vercel.app/api?username=treasure-orb&show_icons=true&theme=merko&count_private=true" />
-  <img height="200px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=treasure-orb&layout=compact&theme=merko&count_private=true" />
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=treasure-orb&show_icons=true&theme=merko&count_private=true" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=treasure-orb&layout=compact&theme=merko&count_private=true" />
 </div>
