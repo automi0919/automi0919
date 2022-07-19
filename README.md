@@ -78,9 +78,8 @@
 	</tr>
 </table>
 
-<div>
-<img align="right" alt="status" src="https://github-readme-stats.vercel.app/api?username=treasure-orb&show_icons=true&&custom_title=Current%20Status&title_color=baf14f&text_color=76d285&icon_color=cff389&theme=dark"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhrryDeveloper&layout=compact&hide_border=true" align="left"/>
+<div align="center">
+<img alt="status" src="https://github-readme-stats.vercel.app/api?username=treasure-orb&show_icons=true&&custom_title=Current%20Status&title_color=baf14f&text_color=76d285&icon_color=cff389&theme=dark"/>
 </div>
 
 
