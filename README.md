@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-<a href="https://app.daily.dev/treasure_orb"><img src="https://api.daily.dev/devcards/d892c7c777e34803a6f496fe22c95609.png?r=cas" width="400" alt="T-O's Dev Card"/></a>
+<a href="https://app.daily.dev/treasure_orb"><img src="https://api.daily.dev/devcards/d892c7c777e34803a6f496fe22c95609.png?r=001" width="400" alt="T-O's Dev Card"/></a>
 </div>
 
 
