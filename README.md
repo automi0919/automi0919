@@ -61,7 +61,6 @@
 			    <img style="margin: 10px" alt="Near Image" height="50" src="./assets/Near.png" />
 			    <img style="margin: 10px" alt="Polygon Image" height="50" src="./assets/Polygon.png" />
 			    <img style="margin: 10px" alt="NFT Image" height="50" src="./assets/NFT.jpg" />
-			    <img style="margin: 10px" alt="smart-contract Image" height="50" src="./assets/smart-contract.png" />
 			    <img style="margin: 10px" alt="Meta Mask Image" height="50" src="./assets/meta-mask-icon.jpg" />
 			    <img style="margin: 10px" alt="DEX Image" height="50" src="./assets/dex.png" />
 			</div>
