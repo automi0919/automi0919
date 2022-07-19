@@ -1,6 +1,15 @@
-<div align="center">
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="55px">
+
+<div align="center" style="margin: 40px 0">
+    <a href="https://github.com/Dev-1102/github-profile-views-counter">
+        <img width="175px" src="https://komarev.com/ghpvc/?username=treasure-orb&color=DE002D">
+    </a>
 </div>
+
+<div align="center">
+<a href="https://app.daily.dev/treasure_orb"><img src="https://api.daily.dev/devcards/d892c7c777e34803a6f496fe22c95609.png?r=mps" width="400" alt="Semion Adam's Dev Card"/></a>
+  
+</div>
+
 
 <h1 align="center">Senior Web and Blockchain Developer</h1>  
 
@@ -9,7 +18,8 @@
 - 📚 Dedicated to growth in technology and enjoy learning new languages and systems.
 - ⚡ Deeply knowledge in distributed ledger, blockchain security, blockchain architecture patterns, and different blockchain standards and ecosystems.
 - 💎 What makes me better than anyone else is punctuality and honesty
-</div>
+
+
 
 <table>
 	<tr>
@@ -68,7 +78,10 @@
 	</tr>
 </table>
 
-
-<div align="center">
-  <img alt="status" src="https://github-readme-stats.vercel.app/api?username=treasure-orb&show_icons=true&&custom_title=Current%20Status&title_color=baf14f&text_color=76d285&icon_color=cff389&theme=dark"/>
+<div>
+<img align="right" alt="status" src="https://github-readme-stats.vercel.app/api?username=treasure-orb&show_icons=true&&custom_title=Current%20Status&title_color=baf14f&text_color=76d285&icon_color=cff389&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhrryDeveloper&layout=compact&hide_border=true" align="left"/>
 </div>
+
+
+
