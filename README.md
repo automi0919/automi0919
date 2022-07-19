@@ -10,7 +10,6 @@
 </div>
 <div>
 <h1 align="center">Senior Web and Blockchain Developer</h1>
-
 - 👨‍💻 A ambitious Web and Blockchain Developer seeking an opportunity to work with a team that can utilize my ability to produce creative solutions.
 - 🏆 Always provides very creative ideas and has high passion, high ability, clean coding ability
 - 📚 Dedicated to growth in technology and enjoy learning new languages and systems.
@@ -76,5 +75,6 @@
 </table>
 
 <div align="center">
-<img alt="status" src="https://github-readme-stats.vercel.app/api?username=treasure-orb&show_icons=true&&custom_title=Current%20Status&title_color=baf14f&text_color=76d285&icon_color=cff389&theme=dark"/>
+<img height="200px" align="left" src="https://github-readme-stats.vercel.app/api?username=treasure-orb&show_icons=true&theme=merko&count_private=true" />
+  <img height="200px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=treasure-orb&layout=compact&theme=merko&count_private=true" />
 </div>
