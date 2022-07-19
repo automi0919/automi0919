@@ -6,8 +6,7 @@
 </div>
 
 <div align="center">
-<a href="https://app.daily.dev/treasure_orb"><img src="https://api.daily.dev/devcards/d892c7c777e34803a6f496fe22c95609.png?r=mps" width="400" alt="Semion Adam's Dev Card"/></a>
-  
+<a href="https://app.daily.dev/treasure_orb"><img src="https://api.daily.dev/devcards/d892c7c777e34803a6f496fe22c95609.png?r=1yu" width="400"></a>
 </div>
 
 
