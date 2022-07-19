@@ -3,6 +3,11 @@
 </div>
 
 <div style="display: flex; align-items: center; justify-content: space-between">
+<div align="center">
+<a href="https://app.daily.dev/treasure_orb"><img src="https://api.daily.dev/devcards/d892c7c777e34803a6f496fe22c95609.png?r=001" width="400" alt="T-O's Dev Card"/></a>
+</div>
+
+</div>
 <div>
 <h1 align="center">Senior Web and Blockchain Developer</h1>
 
@@ -12,11 +17,7 @@
 - ⚡ Deeply knowledge in distributed ledger, blockchain security, blockchain architecture patterns, and different blockchain standards and ecosystems.
 - 💎 What makes me better than anyone else is punctuality and honesty
 </div>
-<div style="padding-left: 20px">
-<a href="https://app.daily.dev/treasure_orb"><img src="https://api.daily.dev/devcards/d892c7c777e34803a6f496fe22c95609.png?r=001" width="400" alt="T-O's Dev Card"/></a>
-</div>
 
-</div>
 <table>
 	<tr>
 		<td valign="top" width="33%">
