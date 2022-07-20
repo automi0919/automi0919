@@ -2,12 +2,9 @@
 <img width="175px" src="https://komarev.com/ghpvc/?username=treasure-orb&color=DE002D">
 </div>
 
-<div style="display: flex; align-items: center; justify-content: space-between">
-<div align="center">
-<a href="https://app.daily.dev/treasure_orb"><img src="https://api.daily.dev/devcards/d892c7c777e34803a6f496fe22c95609.png?r=001" width="400" alt="T-O's Dev Card"/></a>
-</div>
-
-</div>
+<table>
+<tr>
+<td width="60%">
 <div>
 <h1 align="center">Senior Web and Blockchain Developer</h1>
 
@@ -18,6 +15,14 @@
 - 💎 What makes me better than anyone else is punctuality and honesty
 
 </div>
+</td>
+<td width="40%">
+<div align="center">
+<a href="https://app.daily.dev/treasure_orb"><img src="https://api.daily.dev/devcards/d892c7c777e34803a6f496fe22c95609.png?r=001" width="400" alt="T-O's Dev Card"/></a>
+</div>
+</td>
+</tr>
+</table>
 
 <table>
 	<tr>
@@ -77,6 +82,5 @@
 </table>
 
 <div align="center">
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=treasure-orb&show_icons=true&theme=merko&count_private=true" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=treasure-orb&layout=compact&theme=merko&count_private=true" />
+<img alt="status" src="https://github-readme-stats.vercel.app/api?username=treasure-orb&show_icons=true&&custom_title=Current%20Status&title_color=baf14f&text_color=76d285&icon_color=cff389&theme=dark"/>
 </div>
