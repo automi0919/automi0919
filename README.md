@@ -30,9 +30,9 @@
   <img src="./assets/wordpress.png" alt="wordpress" width="55" height="55"/>
   <img src="./assets/react.svg" alt="react" width="55" height="55"/>
   <img src="./assets/nodejs.svg" alt="nodejs" width="55" height="55"/>
-  <img src="./assets/next-js.svg" alt="next-js" width="60" height="50"/>
-  <img src="./assets/mongodb.svg" alt="mongodb" width="60" height="50"/>
-  <img src="./assets/firebase.svg" alt="firebase" width="60" height="50"/>
+  <img src="./assets/next-js.png" alt="next-js" width="55" height="60"/>
+  <img src="./assets/mongodb.svg" alt="mongodb" width="55" height="60"/>
+  <img src="./assets/firebase.svg" alt="firebase" width="55" height="55"/>
   <img src="./assets/docker.svg" alt="docker" width="55" height="55"/>
   <img src="./assets/amazon.svg" alt="amazon" width="55" height="55"/>
   <img src="./assets/git.svg" alt="git" width="55" height="55"/>
